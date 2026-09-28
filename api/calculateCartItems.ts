@@ -10,6 +10,6 @@ const calculateCartItems = (items: CartItem[]): number => {
     }, 0)
 
     return totalCartPrice
-}
+} 
 
 export default calculateCartItems
